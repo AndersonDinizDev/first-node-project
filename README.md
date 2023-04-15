@@ -44,7 +44,7 @@ $ cd first-node-project
 # Install dependencies
 $ yarn or npm
 # Run the project
-# yarn run dev or npm run dev
+$ yarn run dev or npm run dev
 # The server will initialize in the <http://127.0.0.1:3000>
 ```
 [⬆ Voltar ao topo](#login-page)<br>
