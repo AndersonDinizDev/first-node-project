@@ -23,7 +23,7 @@
 
 - [x] Add responsive;
 
-## 💻 Requeriments:
+## 💻 Requiriments:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
