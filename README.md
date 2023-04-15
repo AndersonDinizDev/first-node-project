@@ -10,9 +10,7 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/andersondinizdev/first-node-project?style=for-the-badge">
 
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/andersondinizdev/first-node-project?style=for-the-badge">
-  
-  <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/andersondinizdev/first-node-project?style=for-the-badge">
-  
+    
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/andersondinizdev/first-node-project?style=for-the-badge"/> 
 
 </p>
