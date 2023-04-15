@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="/assets/print.gif" alt="exemplo imagem"/>
+<img src="/img/print.png" alt="print"/>
  </p>
 
 ## 💻 Requiriments:
