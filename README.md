@@ -19,10 +19,6 @@
 <img src="/assets/print.gif" alt="exemplo imagem"/>
  </p>
 
-## ✨ Features:
-
-- [x] Add responsive;
-
 ## 💻 Requiriments:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
